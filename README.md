@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sayan! 
-- 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on anything related to AI & ML
-- 📫 Reach me out on instagram by @sayanbasu.py
+- 👀 I’m interested in CySec and Cloud Computing
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on anything related to Development and Authentication Services
+- 📫 Reach me out on LinkedIn
 
 <!---
 dustycoder-sayan/dustycoder-sayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
