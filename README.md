@@ -25,9 +25,6 @@ Welcome to my GitHub profile! I'm a passionate **Techie**, with a solid foundati
 - 📧 Email: sayan.basu1209@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/sayanbasu09/](https://www.linkedin.com/in/sayanbasu09/)
 
-## 🧾 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
-
 ---
 
 Thanks for stopping by! Let's connect, collaborate, and build something awesome together 🚀
