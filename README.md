@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Techie**, with a solid foundati
 
 ## 🚀 About Me
 - 🎓 Bachelors in Technology in Computer Science
-- 👨‍💻 Currently working as a **QA Engineer - 1** with 8+ months of experience
+- 👨‍💻 Currently working as a **QA Engineer - 1** with 1+ years of experience
 - ⚙️ Exploring **microservices architecture**, **Spring Boot**, and **REST APIs**
 - 🔗 Working on building **Blockchain** applications to **Decentralize** the software world
 - 🛠️ Working on a **Smart Supplier-Distributor Management System** and **Marketplace** project
