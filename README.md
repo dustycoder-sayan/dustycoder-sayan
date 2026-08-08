@@ -3,15 +3,14 @@
 Welcome to my GitHub profile! I'm a passionate **Techie**, with a solid foundation in **Java**, **Python**, and **Spring Boot**. I’m currently diving deep into backend development, blockchain and building real-world projects to sharpen my skills.
 
 ## 🚀 About Me
-- 🎓 Bachelors in Technology in Computer Science
-- 👨‍💻 Currently working as a **QA Engineer - 1** with 1+ years of experience
+- 🎓 Bachelors in Technology in Computer Science and ongoing Masters in Technology in Artificial Intelligence and Machine Learning. 
+- 👨‍💻 Currently working as a **QA Engineer - 1** with 2+ years of experience
 - ⚙️ Exploring **microservices architecture**, **Spring Boot**, and **REST APIs**
-- 🔗 Working on building **Blockchain** applications to **Decentralize** the software world
-- 🛠️ Working on a **Smart Supplier-Distributor Management System** and **Marketplace** project
+- 🔗 Working on Machine Learning and Deep Learning Projects. 
 
 ## 🧠 Skills & Technologies
 - **Languages:** Java, Python, Javascript, Solidity, SQL
-- **Frameworks:** Spring Boot, Django, JUnit, PyUnit, Brownie
+- **Frameworks:** Spring Boot, Django, JUnit, PyUnit, Brownie, PyTorch
 - **Tools:** Git, Postman, Maven, Selenium, Playwright
 - **Databases:** MySQL, SQLite, MongoDB
 - **Cloud & DevOps:** Basics of Docker, CI/CD pipelines (learning)
@@ -20,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate **Techie**, with a solid foundati
 - 🌱 Learning advanced **Spring Boot** and **Microservices**
 - 🔬 Exploring **AI/ML model development and deployment**
 - 💡 Building a **Marketplace for better environment**
+- 🧠 Developing applications using Machine Learning and Deep Learning Algorithms and Frameworks
 
 ## 📫 Connect with Me
 - 📧 Email: sayan.basu1209@gmail.com
