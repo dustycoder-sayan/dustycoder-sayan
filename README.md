@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate **Techie**, with a solid foundati
 
 ## 🚀 About Me
 - 🎓 Bachelors in Technology in Computer Science and ongoing Masters in Technology in Artificial Intelligence and Machine Learning. 
-- 👨‍💻 Currently working as a **QA Engineer - 1** with 2+ years of experience
-- ⚙️ Exploring **microservices architecture**, **Spring Boot**, and **REST APIs**
+- 👨‍💻 Currently working as a **QA Engineer** with 2+ years of experience
+- ⚙️ Exploring **Machine Learning Algorithms**, **Deep Neural Networds**, and **the Math behind them**
 - 🔗 Working on Machine Learning and Deep Learning Projects. 
 
 ## 🧠 Skills & Technologies
@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate **Techie**, with a solid foundati
 ## 📌 Current Focus
 - 🌱 Learning advanced **Spring Boot** and **Microservices**
 - 🔬 Exploring **AI/ML model development and deployment**
-- 💡 Building a **Marketplace for better environment**
 - 🧠 Developing applications using Machine Learning and Deep Learning Algorithms and Frameworks
 
 ## 📫 Connect with Me
