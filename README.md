@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Sayan!
 
-Welcome to my GitHub profile! I'm a passionate **Techie**, with a solid foundation in **Java**, **Python**, and **Spring Boot**. I’m currently diving deep into backend development, blockchain and building real-world projects to sharpen my skills.
+Welcome to my GitHub profile! I'm a passionate **Techie**, with a solid foundation in **Java** and **Python**. I’m currently diving deep into AI Engineering, Research and Model Development. 
 
 ## 🚀 About Me
 - 🎓 Bachelors in Technology in Computer Science and ongoing Masters in Technology in Artificial Intelligence and Machine Learning. 
